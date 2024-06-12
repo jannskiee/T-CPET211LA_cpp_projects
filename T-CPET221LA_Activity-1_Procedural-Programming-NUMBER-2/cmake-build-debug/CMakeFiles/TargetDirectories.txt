@@ -1,0 +1,3 @@
+C:/Users/Admin/CLionProjects/T-CPET221LA_Activity-1_Procedural-Programming-NUMBER-2/cmake-build-debug/CMakeFiles/T_CPET211LA_Activity_1_C___Procedural_Programming__Number_2_.dir
+C:/Users/Admin/CLionProjects/T-CPET221LA_Activity-1_Procedural-Programming-NUMBER-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/T-CPET221LA_Activity-1_Procedural-Programming-NUMBER-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

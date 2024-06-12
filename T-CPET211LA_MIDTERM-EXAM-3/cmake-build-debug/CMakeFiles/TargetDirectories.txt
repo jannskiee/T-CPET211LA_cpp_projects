@@ -1,0 +1,3 @@
+C:/Users/Admin/CLionProjects/T-CPET211LA_MIDTERM-EXAM-3/cmake-build-debug/CMakeFiles/T_CPET211LA_MIDTERM_EXAM_3.dir
+C:/Users/Admin/CLionProjects/T-CPET211LA_MIDTERM-EXAM-3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/T-CPET211LA_MIDTERM-EXAM-3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
