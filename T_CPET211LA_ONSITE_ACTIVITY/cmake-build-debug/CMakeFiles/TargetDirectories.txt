@@ -1,0 +1,3 @@
+C:/Users/Admin/CLionProjects/T_CPET211LA_ONSITE_ACTIVITY/cmake-build-debug/CMakeFiles/T_CPET211LA_ONSITE_ACTIVITY.dir
+C:/Users/Admin/CLionProjects/T_CPET211LA_ONSITE_ACTIVITY/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/T_CPET211LA_ONSITE_ACTIVITY/cmake-build-debug/CMakeFiles/rebuild_cache.dir
