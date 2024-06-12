@@ -1,0 +1,3 @@
+C:/Users/Admin/CLionProjects/T-CPET211LA_Activity-8_Container-Adaptor/cmake-build-debug/CMakeFiles/T_CPET211LA_Activity_8_Container_Adaptor.dir
+C:/Users/Admin/CLionProjects/T-CPET211LA_Activity-8_Container-Adaptor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/T-CPET211LA_Activity-8_Container-Adaptor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
