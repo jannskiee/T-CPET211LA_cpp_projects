@@ -1,0 +1,3 @@
+C:/Users/Admin/CLionProjects/T-CPET211LA_Activity-5_Strings/cmake-build-debug/CMakeFiles/T_CPET211LA_Activity_5_Strings.dir
+C:/Users/Admin/CLionProjects/T-CPET211LA_Activity-5_Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/CLionProjects/T-CPET211LA_Activity-5_Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
